@@ -1,6 +1,6 @@
 
 
-# Train YOLO With a Custom Classes from the Coco Datasets
+# Train YOLO Objetct Detection With a Custom Classes from the Coco Datasets
 
 - Download specific classes from the **Coco Dataset** for custrom object detection needs.
 - Download multiple classes at the same time (Multi-threaded).
