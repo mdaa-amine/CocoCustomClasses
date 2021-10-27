@@ -12,7 +12,7 @@
 
 ## Usage
 #### 1. Clone this repository:  
-`git clone https://github.com/mdaa-amine/Coco-Dataset-Custom-Classes-Extractor.git`
+`git clone https://github.com/mdaa-amine/CocoCustomClasses.git`
 #### 2. Download the **[2017 Train/Val annotations \[241MB\]](https://cocodataset.org/#download)** zip file and put the **annotations derectory** in the cloned repository's main directory.
 #### 3. See the various classes available:  
 `python coco-extractor.py --help` 
